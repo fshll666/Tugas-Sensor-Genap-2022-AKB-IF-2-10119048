@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/maps"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_cafe"
+        android:icon="@drawable/maps"
+        android:title="@string/title_cafe" />
+
+    <item
+        android:id="@+id/navigation_locatio_user"
+        android:icon="@drawable/maps"
+        android:title="@string/title_locuser" />
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/maps"
+        android:title="@string/title_info" />
+</menu>
